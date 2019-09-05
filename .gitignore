@@ -82,3 +82,4 @@ Temporary Items
 # End of https://www.gitignore.io/api/git,c++,macos
 
 .venv/
+.mypy_cache/
